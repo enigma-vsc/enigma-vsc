@@ -1,5 +1,42 @@
-### Hi there 👋
-Hello there! I am a recent post-graduate student from IIT Kharagpur my major was in Mechanical Engineering, I am a result-oriented and self-driven person, passionate about technology and business operations and I am always up for new challenges, projects, and meaningful connections.
+# Hi there, I'm [Your Name]! 👋
+
+I'm a passionate software engineer with a love for [DevOps, networking. I'm always on the lookout for new challenges and opportunities to learn and grow.
+
+## 🌟 What I Do
+
+- 💻 I'm currently diving deep into **DevOps** and **networking**.
+- 🚀 I'm building projects to enhance my skills in cloud technologies and automation.
+- 🛠️ I enjoy contributing to open-source projects and collaborating with the community.
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- **DevOps**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white), ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+<!--## 🚀 Projects
+
+- **[Project Name](#)**: A brief description of what the project is about.
+- **[Another Project](#)**: Another brief description of this project.
+-->
+## 🌱 Interests
+
+- 🏋️‍♂️ Staying fit and active.
+- 🍴 Exploring new cuisines and flavors.
+- 🏍️ Riding my motorbike on the weekends.
+- ✈️ Traveling and experiencing new places.
+
+## 📫 Let's Connect
+
+- **LinkedIn**: https://www.linkedin.com/in/vsc3110/
+- **X**: https://x.com/senor_saha
+- **Email**: vsc3110@gmail.com
+
+---
+
+*Fun fact: I love combining my love for tech with my passion for travel. Always up for a new adventure!*
+
+
 <!--
 - 🌱 I’m currently learning : Core Java 
 - 📫 How to reach me: wanderer.enigma31@gmail.com
